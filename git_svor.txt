@@ -1,4 +1,4 @@
-#Kiril Krushkov
+#Kiril Krushkov (KK)
 #Practice
 #Git spurningar og svör
 
