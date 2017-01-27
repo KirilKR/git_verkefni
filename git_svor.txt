@@ -1,3 +1,4 @@
+#Kiril Krushkov
 #Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
