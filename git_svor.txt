@@ -21,7 +21,7 @@
 	git diff = git diff sýnir breytingu milli hluta.
 
 	git checkout = git checkout gerir þér kleift að skipta um eða endurheimta tré skrár amk.
-
+=======================================================================================================================================================
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff = Sem staðbundin breytingar eru bætt við og ekki merkt í staðnum.
 	b) git diff --staged = Til að sjá þær breytingar sem hafa verið sett á svið þegar.
