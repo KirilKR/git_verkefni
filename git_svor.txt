@@ -9,7 +9,7 @@
 	ls = ls sýnir þér lista yfir skrár ákveðnar möppu.
 	pwd = pwd sýnir í hvaða möppu þú ert staddur.
 	mkdir = mkdir stendur fyrir "make directory" og býr til nýja möppu. 
-s
+=======================================================================================================================================================
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 
 	git clone = git clone afritar verkefni yfir í nýja möppu.
