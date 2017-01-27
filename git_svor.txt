@@ -10,15 +10,15 @@
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 
-	git clone = git clone afritar verkefni yfir í nýja möppu
+	git clone = git clone afritar verkefni yfir í nýja möppu.
 
 	git log = git log sýnir allar breytingar sem gerðar hafa verið við ákveðið verkefni.
 
-	git status = git status sýnir ástandið á vinnu trénu(working tree)
+	git status = git status sýnir ástandið á vinnu trénu(working tree).
 
-	git diff = git diff sýnir breytingu milli hluta
+	git diff = git diff sýnir breytingu milli hluta.
 
-	git checkout = git checkout gerir þér kleift að skipta um eða endurheimta tré skrár amk
+	git checkout = git checkout gerir þér kleift að skipta um eða endurheimta tré skrár amk.
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff = Sem staðbundin breytingar eru bætt við og ekki merkt í staðnum.
