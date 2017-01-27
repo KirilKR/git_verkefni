@@ -37,4 +37,4 @@
 
 9.	Hver fann upp GIT? = Linus Torvalds er höfuð GIT.
 
-10.	Hvar er GIT helst notað?
+10.	Hvar er GIT helst notað? = Git er mjög mismunandi að hefðbundnum, miðlæg útgáfa eftirlitskerfi.
